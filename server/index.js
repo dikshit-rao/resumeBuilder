@@ -13,7 +13,7 @@ connect();
 app.use(express.json());
 app.use(
 	cors({
-		origin:"https://resume-builder-nine-tawny.vercel.app/",
+		origin:"https://resume-builder-nine-tawny.vercel.app",
 		credentials:true,
 	})
 )
