@@ -55,10 +55,10 @@ const Footer = () => {
               <div className="group flex items-center gap-2">
                 <span className="text-[#94A3B8]">Email:</span>
                 <a
-                  href="mailto:support@RESUMIFY.com"
+                  href="mailto:dikshitrao789@gmail.com"
                   className="text-white group-hover:text-[#FCD34D] transition-colors duration-300"
                 >
-                  support@RESUMIFY.com
+                  dikshitrao789@gmail.com
                 </a>
               </div>
             </div>
@@ -73,7 +73,7 @@ const Footer = () => {
               },
               {
                 title: "Credits",
-                links: ["Anant Hansras", "Yash Pratap", "Shiv Pratap", "Yaduvar Kansal"],
+                links: ["Dikshit Rao"],
               },
               {
                 title: "SUPPORT",
@@ -90,10 +90,7 @@ const Footer = () => {
       "Resume Examples": "/example-resume",
       "How to Write a Resume": "/tut1",
 
-      "Anant Hansras": "/credits/anant",
-      "Shiv Pratap": "/credits/shiv",
-      "Yash Pratap": "/credits/yash",
-      "Yaduvar Kansal": "/credits/yaduvar",
+      "Dikshit Rao": "/credits/Dikshit",
 
       "About": "/about",
       "FAQ": "/faq",
