@@ -46,10 +46,10 @@ const Footer = () => {
               <div className="group flex items-center gap-2">
                 <span className="text-[#94A3B8]">Call us:</span>
                 <a
-                  href="tel:800-985-7561"
+                  href="tel:"
                   className="text-white group-hover:text-[#FCD34D] transition-colors duration-300"
                 >
-                  800-985-7561
+                  94618-66480
                 </a>
               </div>
               <div className="group flex items-center gap-2">
